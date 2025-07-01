@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makwantsha
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning html, css and JavaScript
+- 🌱 I’m currently learning Sql, python and Power query 
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me email
 
