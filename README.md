@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Makwantsha
-- 👀 I’m interested in becoming a web developer
+- 👀 I’m interested in becoming a Data Analyst
 - 🌱 I’m currently learning Sql, python and Power query 
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me email
